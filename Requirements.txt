@@ -1,4 +1,4 @@
-->Python basics
+->Python 
 ->NumPy
 ->Pandas 
 ->Matplotlib
