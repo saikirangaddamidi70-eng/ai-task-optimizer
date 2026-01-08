@@ -1,21 +1,13 @@
-# Project Name
-Smart Weather Intelligence System / AI Task Optimizer
+# AI Task / Study Optimizer
 
 ## Description
-Briefly explain the project:
-- What it does
-- Purpose
-- How it helps users
-
-Example:
-The Smart Weather Intelligence System analyzes historical weather data to provide insights, trends, and summaries using Python. It uses Pandas for data handling and Matplotlib for visualization.
+The AI Task/Study Optimizer is a Python-based intelligent task management system designed to help students and professionals efficiently plan, prioritize, and track their tasks or study sessions. Using Pandas for data handling and Matplotlib for visualization, it sorts tasks based on priority, deadlines, and time requirements, helping users optimize their productivity.
 
 ## Features
-- List main features
-- Example:
-  - Load and clean datasets
-  - Display weather trends / task priority
-  - Generate visualizations and insights
+- Add tasks with priority, category, estimated time, and deadlines
+- Automatic task prioritization based on urgency and importance
+- Visualize task distribution and progress trends
+- CSV-based task storage for easy management
 
 ## Technologies Used
 - Python 3.x
@@ -24,12 +16,12 @@ The Smart Weather Intelligence System analyzes historical weather data to provid
 - Matplotlib
 
 ## How to Run
-1. Clone the repo: `git clone <repo_url>`
+1. Clone the repository: `git clone <repo_url>`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run main file: `python app.py` (or `python main.py`)
+3. Run the main file: `python task_optimizer.py` or `python main.py`
 
 ## Author
-- Gaddamidi Sai Kiran
+Gaddamidi Sai Kiran
 
 ## License
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
