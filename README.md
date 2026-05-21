@@ -31,7 +31,12 @@ python task_optimizer.py
 # or
 python main.py
 ```
+---
 
+## 📸 Project Screenshot
+![Study task optimizer](study_task_optimizer.png) 
+
+---
 ## 👨‍💻 Author
 **Gaddamidi Sai Kiran**
 
