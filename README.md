@@ -1,27 +1,39 @@
-# AI Task / Study Optimizer
+# 📚 AI Task / Study Optimizer
 
-## Description
-The AI Task/Study Optimizer is a Python-based intelligent task management system designed to help students and professionals efficiently plan, prioritize, and track their tasks or study sessions. Using Pandas for data handling and Matplotlib for visualization, it sorts tasks based on priority, deadlines, and time requirements, helping users optimize their productivity.
+## 📌 Description
+AI Task / Study Optimizer is a Python-based intelligent task management system that helps students and professionals organize, prioritize, and track tasks efficiently. It analyzes priorities, deadlines, and time requirements to improve productivity and task planning.
 
-## Features
-- Add tasks with priority, category, estimated time, and deadlines
-- Automatic task prioritization based on urgency and importance
-- Visualize task distribution and progress trends
-- CSV-based task storage for easy management
+## ✨ Features
+✔️ Add tasks with priority, category, estimated time, and deadlines  
+✔️ Automatically prioritize tasks based on urgency and importance  
+✔️ Visualize task progress and distribution trends  
+✔️ Store tasks using CSV files for easy management  
+✔️ Improve productivity with smart task organization  
 
-## Technologies Used
-- Python 3.x
-- Pandas
-- NumPy
-- Matplotlib
+## 🛠️ Technologies Used
+- Python 3.x  
+- Pandas  
+- NumPy  
+- Matplotlib  
 
-## How to Run
-1. Clone the repository: `git clone <repo_url>`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the main file: `python task_optimizer.py` or `python main.py`
+## 🚀 How to Run
 
-## Author
-Gaddamidi Sai Kiran
+```bash
+# Clone repository
+git clone <repo_url>
 
-## License
-This project is licensed under the MIT License.
+# Install dependencies
+pip install -r requirements.txt
+
+# Run project
+python task_optimizer.py
+
+# or
+python main.py
+```
+
+## 👨‍💻 Author
+**Gaddamidi Sai Kiran**
+
+## 📄 License
+Licensed under the MIT License.
